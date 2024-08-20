@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maryna-Kolomiichuk
 - 👀 I’m interested in Electrical Power Engineering
-- 📫 How to reach me using email 260427@usn.no
+- 📫 Reach me using email 260427@usn.no
 
 
 <!---
